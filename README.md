@@ -1,6 +1,10 @@
 # LispDump
 Dumping ground for miscellaneous [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language)) scripts
 
+## Basics
+
+Much of this is taken from [Derek Banas' video](https://www.youtube.com/watch?v=ymSq4wHrqyU).
+
 ## Contents
 
 [01_comments.lsp](https://github.com/James-P-D/LispDump/blob/master/src/01_comments.lsp)  
