@@ -1,3 +1,4 @@
+;clisp 02_hello.lsp
 (format t "Hello, world!~%Goodbye!") ; ~% for new line
 
 

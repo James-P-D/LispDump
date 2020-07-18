@@ -1,3 +1,4 @@
+;clisp 01_comments.lsp
 ;;;; Description of program
 ;;; Basic comment
 
