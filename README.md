@@ -19,3 +19,4 @@ Much of this is taken from [Derek Banas' video](https://www.youtube.com/watch?v=
 [10_association_lists.lsp](https://github.com/James-P-D/LispDump/blob/master/src/10_association_lists.lsp)  
 [11_functions.lsp](https://github.com/James-P-D/LispDump/blob/master/src/11_functions.lsp)  
 
+[xx_hashtables.lsp](https://github.com/James-P-D/LispDump/blob/master/src/xx_hashtables.lsp)  
