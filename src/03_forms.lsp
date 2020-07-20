@@ -1,6 +1,6 @@
 (setq *print-case* :capitalize)
 
-(format t "~a~%" (+ 5 4))     ; Remember operators are prefix nor infix
+(format t "~a~%" (+ 5 4))     ; Remember operators are prefix not infix
 
 (format t "~a~%" (+ 5 (- 6 2)))
 
